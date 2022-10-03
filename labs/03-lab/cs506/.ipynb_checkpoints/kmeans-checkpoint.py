@@ -35,6 +35,10 @@ def get_centroid(points):
 
     #raise NotImplementedError()
 
+
+    
+    
+
 def get_centroids(dataset, assignments):
     """
     Accepts a dataset and a list of assignments; the indexes 
